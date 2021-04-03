@@ -27,7 +27,7 @@ See the corresponding paper for more details.
   
 ## Download Database  
 ---
-Work directory that includes the original mat files can be downloaded from http://aero.mech.tohoku.ac.jp/rom/Airfoil-PIV-data-for-linear-ROM-18.zip.
+Work directory that includes the original mat files can be downloaded from http://aero.mech.tohoku.ac.jp/rom/Nonomura2021-Airfoil-PIV-data-for-linear-ROM-18.zip.
 Please download and extract it. Please set the work dir in the same layout as noted above.
  - k0.mat: index of masked region
  - k1.mat: index of nonmasked region
@@ -66,3 +66,14 @@ If you use `Greedy Sensor Selection Algorithm` code in your work, please cite th
 }
 ```  
 
+### Quantitive Evaluation of Linear ROM
+``` bibtex
+@misc{nankai2019quantitative,
+      title={Quantitative Evaluation of a Linear Reduced-order Model based on Particle-image-velocimetry Data of Flow Field around Airfoil}, 
+      author={Koki Nankai and Taku Nonomura and Keisuke Asai},
+      year={2019},
+      eprint={1907.12239},
+      archivePrefix={arXiv},
+      primaryClass={physics.flu-dyn}
+}
+```
