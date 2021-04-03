@@ -46,11 +46,11 @@ Please download and extract it. Please set the work dir in the same layout as no
 If you use `Greedy Sensor Selection Algorithm` code in your work, please cite the software itself and relevent papers.  
 ### General software reference:  
 ``` bibtex
-@misc{nakai2020github,
-      author = {Taku Nonomura},
+@misc{Nonomura2021github,
+      author = {Taku Nonomura and Koki Nankai and Yuto Iwasaki and Atsushi Komuro and Keisuke Asai},
       title = {Airfoil PIV data for linear ROM},
       howpublished = {Available online},
-      year = {2020},
+      year = {2021},
       url = {https://github.com/Aerodynamics-Lab/Airfoil-PIV-data-for-linear-ROM}
 }
 ```  
