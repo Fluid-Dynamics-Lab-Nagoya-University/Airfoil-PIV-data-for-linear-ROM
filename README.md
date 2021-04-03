@@ -5,6 +5,16 @@ This repository contains Matlab R2020a code to load the data used in the manuscr
 Although the reduced order model code is not included, the same data are available by nunning the program. 
 To run the program, download and extract the database and execute `P01_loadmat_makeimage`.  
 
+## Database description
+---
+-Small Low Turbulence Wind Tunnel in Institute of Fluid Science
+-10 m/s freestream around 100 mm NACA0015
+-Time-resolved PIV of 5000 Hz pair images with Photoron SA-X2 and Photonics Industries, DM30-527
+-Measured on December 5th 2018 by Koki Nankai and Atsushi Komuro
+-PIV is processed by Dantec Dynamic Studio
+-\Delta f c/u_infty = 0.02 
+See the corresponding paper for more details.
+
 ## Directory
 ---
 - src: directory in which the source code is stored  
@@ -16,7 +26,7 @@ To run the program, download and extract the database and execute `P01_loadmat_m
   
 ## Download Database  
 ---
-This repositoryWork directory that includes the original mat files can be downloaded from http://aero.mech.tohoku.ac.jp/rom/Airfoil-PIV-data-for-linear-ROM-18.zip
+Work directory that includes the original mat files can be downloaded from http://aero.mech.tohoku.ac.jp/rom/Airfoil-PIV-data-for-linear-ROM-18.zip.
 Please download and extract it. Please set the work dir in the same layout as noted above.
  - k0.mat: index of masked region
  - k1.mat: index of nonmasked region
