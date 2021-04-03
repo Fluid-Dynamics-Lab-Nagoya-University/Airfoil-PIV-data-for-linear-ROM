@@ -41,4 +41,17 @@ Please download and extract it. Please set the work dir in the same layout as no
 ### Textdata  
 - NACA0015.txt
 
+## How to cite  
+---
+If you use `Greedy Sensor Selection Algorithm` code in your work, please cite the software itself and relevent papers.  
+### General software reference:  
+``` bibtex
+@misc{nakai2020github,
+      author = {Taku Nonomura},
+      title = {Airfoil PIV data for linear ROM},
+      howpublished = {Available online},
+      year = {2020},
+      url = {https://github.com/Aerodynamics-Lab/Airfoil-PIV-data-for-linear-ROM}
+}
+```  
 
