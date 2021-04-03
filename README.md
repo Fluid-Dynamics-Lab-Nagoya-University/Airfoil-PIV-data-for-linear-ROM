@@ -7,12 +7,13 @@ To run the program, download and extract the database and execute `P01_loadmat_m
 
 ## Database description
 ---
--Small Low Turbulence Wind Tunnel in Institute of Fluid Science
--10 m/s freestream around 100 mm NACA0015
--Time-resolved PIV of 5000 Hz pair images with Photoron SA-X2 and Photonics Industries, DM30-527
--Measured on December 5th 2018 by Koki Nankai and Atsushi Komuro
--PIV is processed by Dantec Dynamic Studio
--\Delta f c/u_infty = 0.02 
+- Small Low Turbulence Wind Tunnel in Institute of Fluid Science
+- 10 m/s freestream around 100 mm NACA0015
+- Time-resolved PIV of 5000 Hz pair images with Photoron SA-X2 and Photonics Industries, DM30-527
+- Measured on December 5th 2018 by Koki Nankai and Atsushi Komuro
+- PIV is processed by Dantec Dynamic Studio
+- The time step of velocity data is \Delta f c/u_{\infty} = 0.02 
+
 See the corresponding paper for more details.
 
 ## Directory
