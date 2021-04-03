@@ -14,12 +14,12 @@ To run the program, download and extract the database and execute `P01_loadmat_m
       - u: directory for images of u-velocity are stored
       - v: directory for images of v-velocity are stored
   
-## Download  
+## Download Database
 ---
-work directory that includes the original mat files are uploaded at http://aero.mech.tohoku.ac.jp/rom/Airfoil-PIV-data-for-linear-ROM-18.zip
-please download and extract it. Please set the work dir in the same layout as noteb above
+Work directory that includes the original mat files are uploaded at http://aero.mech.tohoku.ac.jp/rom/Airfoil-PIV-data-for-linear-ROM-18.zip
+Please download and extract it. Please set the work dir in the same layout as noteb above.
 Contained files are as follows:
- ---
+---
  - k0.mat: index of masked region
  - k1.mat: index of nonmasked region
  - NUM_t.mat: time
