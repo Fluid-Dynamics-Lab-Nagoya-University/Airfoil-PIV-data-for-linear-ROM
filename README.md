@@ -5,7 +5,7 @@ This repository contains Matlab R2020a code to load the data used in the manuscr
 Although the reduced order model code is not included, the same data are available by nunning the program. 
 To run the program, download and extract the database and execute `P01_loadmat_makeimage`.  
 
-## Directory  
+## Directory
 ---
 - src: directory in which the source code is stored  
 - work: directory in which the calculation results are stored (created automatically by running the program)  
@@ -14,12 +14,10 @@ To run the program, download and extract the database and execute `P01_loadmat_m
       - u: directory for images of u-velocity are stored
       - v: directory for images of v-velocity are stored
   
-## Download Database
+## Download Database  
 ---
-Work directory that includes the original mat files are uploaded at http://aero.mech.tohoku.ac.jp/rom/Airfoil-PIV-data-for-linear-ROM-18.zip
-Please download and extract it. Please set the work dir in the same layout as noteb above.
-Contained files are as follows:
----
+This repositoryWork directory that includes the original mat files can be downloaded from http://aero.mech.tohoku.ac.jp/rom/Airfoil-PIV-data-for-linear-ROM-18.zip
+Please download and extract it. Please set the work dir in the same layout as noted above.
  - k0.mat: index of masked region
  - k1.mat: index of nonmasked region
  - NUM_t.mat: time
@@ -27,3 +25,20 @@ Contained files are as follows:
  - vfield_allt.mat: All the snapshot data of time-series v-fields
  - ufield_ave.mat: time-averaged u-fields
  - vfield_ave.mat: time-averaged v-fields
+
+## Code  
+---
+### Main program  
+- P01_loadmat_makeimage.m  
+
+### Function  
+- F_colormap_org.m  
+- F_ffvis.m  
+- F_rangemod.m  
+- F_wingdraw.m  
+- F_wingread.m  
+
+### Textdata  
+- NACA0015.txt
+
+
