@@ -1,7 +1,7 @@
 # Airfoil-PIV-data-for-linear-ROM
 <!-- Last modified: 2021/04/03 -->
 ---
-This repository contains Matlab R2020a code to load the data used in the manuscript entitled __"Quantitative Evaluation of Predictability of Linear Reduced-order Model based on Particle-image-velocimetry Data of Flow Field around Airfoil"__ published in [arXiv](https://arxiv.org/abs/1907.12239).  
+This repository contains Matlab R2020a code to load the data used in the manuscript entitled __"Quantitative Evaluation of Predictability of Linear Reduced-order Model based on Particle-image-velocimetry Data of Flow Field around Airfoil"__ published in [Experiments in Fluids, Vol. 62, 112, 2021](https://link.springer.com/article/10.1007/s00348-021-03205-8)  and [arXiv](https://arxiv.org/abs/1907.12239).  
 Although the reduced order model code is not included, the same data are available by nunning the program. 
 To run the program, download and extract the database and execute `P01_loadmat_makeimage`.  
 
@@ -68,12 +68,31 @@ If you use `Greedy Sensor Selection Algorithm` code in your work, please cite th
 
 ### Quantitive Evaluation of Linear ROM
 ``` bibtex
-@misc{nankai2019quantitative,
-      title={Quantitative Evaluation of a Linear Reduced-order Model based on Particle-image-velocimetry Data of Flow Field around Airfoil}, 
-      author={Koki Nankai and Taku Nonomura and Keisuke Asai},
-      year={2019},
-      eprint={1907.12239},
+@article{nonomura2021quantitative,
+  title={Quantitative evaluation of predictability of linear reduced-order model based on particle-image-velocimetry data of separated flow field around airfoil},
+  author={Nonomura, Taku and Nankai, Koki and Iwasaki, Yuto and Komuro, Atsushi and Asai, Keisuke},
+  journal={Experiments in Fluids},
+  volume={62},
+  number={5},
+  pages={1--22},
+  year={2021},
+  publisher={Springer}
+}
+
+@misc{nonomura2021quantitative,
+      title={Quantitative evaluation of predictability of linear reduced-order model based on particle-image-velocimetry data of separated flow field around airfoil}, 
+      author={Nonomura, Taku and Nankai, Koki and Iwasaki, Yuto and Komuro, Atsushi and Asai, Keisuke},
+      year={2021},
+      eprint={1907.12239v2},
       archivePrefix={arXiv},
       primaryClass={physics.flu-dyn}
 }
 ```
+
+## Author
+---
+Taku Nonomura, Koki Nankai, Yuto Iwasaki, Atsushi Komuro, Keisuke Asai 
+[Experimental Aerodynamics Laboratory](http://www.aero.mech.tohoku.ac.jp/eng/)  
+Department of Aerospace Engineering, Tohoku University  
+Sendai, JAPAN  
+E-mail: nonomura@tohoku.ac.jp
