@@ -27,7 +27,7 @@ See the corresponding paper for more details.
   
 ## Download Database  
 ---
-Work directory that includes the original mat files can be downloaded from http://aero.mech.tohoku.ac.jp/rom/Nonomura2021-Airfoil-PIV-data-for-linear-ROM-18.zip.
+Work directory that includes the original mat files can be downloaded from http://www.aero.mech.tohoku.ac.jp/rom/Nonomura2021-Airfoil-PIV-data-for-linear-ROM-18.zip.
 Please download and extract it. Please set the work dir in the same layout as noted above.
  - k0.mat: index of masked region
  - k1.mat: index of nonmasked region
