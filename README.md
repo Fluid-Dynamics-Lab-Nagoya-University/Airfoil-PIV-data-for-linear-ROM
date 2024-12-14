@@ -54,7 +54,7 @@ Please download and extract it. Please set the work dir in the same layout as no
 
 ## How to cite  
 ---
-If you use `Greedy Sensor Selection Algorithm` code in your work, please cite the software itself and relevent papers.  
+If you use the data in your work, please cite the data itself and relevant papers.  
 ### General software reference:  
 ``` bibtex
 @misc{Nonomura2021github,
