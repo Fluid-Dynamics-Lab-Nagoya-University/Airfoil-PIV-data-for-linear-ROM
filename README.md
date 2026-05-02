@@ -27,8 +27,8 @@ See the corresponding paper for more details.
   
 ## Download Database  
 ---
-Work directory that includes the original mat files can be downloaded from http://www.aero.mech.tohoku.ac.jp/rom/Nonomura2021-Airfoil-PIV-data-for-linear-ROM-18.zip.
-Please download and extract it. Please set the work dir in the same layout as noted above.
+Work directory that includes the original mat files can be downloaded from https://fdl-sharedrive.mae.nagoya-u.ac.jp/index.php/s/fZNZBdLePW6zcQL 
+Please download the data. Please set the work dir in the same layout as noted above.
  - k0.mat: index of masked region
  - k1.mat: index of nonmasked region
  - NUM_t.mat: time
@@ -92,7 +92,7 @@ If you use `Greedy Sensor Selection Algorithm` code in your work, please cite th
 ## Author
 ---
 Taku Nonomura, Koki Nankai, Yuto Iwasaki, Atsushi Komuro, Keisuke Asai 
-[Experimental Aerodynamics Laboratory](http://www.aero.mech.tohoku.ac.jp/eng/)  
-Department of Aerospace Engineering, Tohoku University  
+[Fluid Dynamics Laboratory](https://www.fdl.mae.nagoya-u.ac.jp/)  
+Department of Aerospace Engineering, Nagoya University  
 Sendai, JAPAN  
 E-mail: nonomura@tohoku.ac.jp
