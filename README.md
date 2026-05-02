@@ -95,4 +95,4 @@ Taku Nonomura, Koki Nankai, Yuto Iwasaki, Atsushi Komuro, Keisuke Asai
 [Fluid Dynamics Laboratory](https://www.fdl.mae.nagoya-u.ac.jp/)  
 Department of Aerospace Engineering, Nagoya University  
 Sendai, JAPAN  
-E-mail: nonomura@tohoku.ac.jp
+E-mail: nonomura@nagouya-u.jp
