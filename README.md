@@ -94,5 +94,5 @@ If you use `Greedy Sensor Selection Algorithm` code in your work, please cite th
 Taku Nonomura, Koki Nankai, Yuto Iwasaki, Atsushi Komuro, Keisuke Asai 
 [Fluid Dynamics Laboratory](https://www.fdl.mae.nagoya-u.ac.jp/)  
 Department of Aerospace Engineering, Nagoya University  
-Sendai, JAPAN  
-E-mail: nonomura@nagouya-u.jp
+Nagoya, Aichi, JAPAN  
+E-mail: nonomura@nagoya-u.jp
